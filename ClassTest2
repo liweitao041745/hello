@@ -1,0 +1,4 @@
+public Class ClassTest2 {
+  priavte String sname ;
+  private String FullName ;
+} 
